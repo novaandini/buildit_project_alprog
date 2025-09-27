@@ -1,11 +1,11 @@
 #Anggota 1
 Nama : Putu Vistaswari Refika Laksmi
-NIM  : 
+NIM  : 2505551071
 
 #Anggota 2
 Nama : Ni Kadek Dwi Putri Nova Andini
 NIM  : 2505551080
 
 #Anggota 3
-Nama :
-NIM  :
+Nama : Ni Wayan Indah Aprilia
+NIM  : 2505551084
